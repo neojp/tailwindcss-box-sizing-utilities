@@ -11,6 +11,9 @@
 
 This is a Tailwind CSS plugin that adds utilities to modifiy the [CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model) property: `box-sizing`. It's useful to override defaults coming from [Preflight](https://tailwindcss.com/docs/preflight/) or [normalize.css](https://github.com/necolas/normalize.css/) or any other [CSS reset](https://meyerweb.com/eric/tools/css/reset/).
 
+
+**Note:** `box-sizing` utilities were added to [Tailwind 1.2.0](https://github.com/tailwindcss/tailwindcss/releases/tag/v1.2.0) as `.box-border` and `.box-content`.
+
 Maintained by: [Joan Piedra](https://joanpiedra.com) → [@neojp](https://twitter.com/neojp)
 
 ## Installation
